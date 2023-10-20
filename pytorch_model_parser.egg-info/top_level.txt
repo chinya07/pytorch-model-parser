@@ -1,1 +1,1 @@
-pytorch-model-parser
+pytorch_model_parser
